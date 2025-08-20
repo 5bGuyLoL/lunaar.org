@@ -95,12 +95,12 @@ server.on("listening", () => {
 	console.log("Listening on:");
 	console.clear();
 	console.log(
-		chalk.green(`🚀 Lunaar V6 Listening on http://localhost:${address.port}`),
+		chalk.green(`🚀 Native V6 Listening on http://localhost:${address.port}`),
 	);
 	console.log();
-	console.log(chalk.magenta(`🌙 Made by the Parcoil Network`));
+	console.log(chalk.magenta(`Made by Young Sheldon`));
 	console.log();
-	console.log(chalk.white(`⭐ Please Star on github`));
+	console.log(chalk.white('`));
 });
 
 process.on("SIGINT", shutdown);
