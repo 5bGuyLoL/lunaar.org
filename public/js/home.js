@@ -1,15 +1,15 @@
 document.body.style.overflow = "hidden";
 
 const texts = [
-	"Lunaar",
-	"Freedom",
-	"Perfection",
-	"The Future",
-	"The Ultimate Experience",
-	"The best site!",
-	"Speed",
-	"Privacy",
-	"Security",
+	"Native",
+	"Young Sheldon",
+	"Kyle",
+	"John Pork",
+	"Driving In My Car",
+	"Geometrical Dash",
+	"I... Am Steve",
+	"Tonight's the night...",
+	"Unc",
 	"Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles",
 ];
 const typingSpeed = 90;
